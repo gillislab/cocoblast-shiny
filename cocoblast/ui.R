@@ -121,7 +121,7 @@ body = dashboardBody(
                             br(),
                             p(
                             tags$h4('Have a question or issue?'),
-                                HTML('Feel free to contact John Lee at <b>johlee@cshl.edu</b> to report an issue, suggest an update, or ask for help. ')
+                                HTML('Feel free to contact John Hover at <b>hover@cshl.edu</b> to report an issue, suggest an update, or ask for help. ')
                             
 
                             ),
